@@ -1,6 +1,6 @@
 # Shaded Progress Bars: A CSS/Sass Exercise
-
-A tutorial on how to create shaded CSS-only progress bars with Sass. By Rafael González.
+> CSS only progress bar.
+A tutorial on how to create shaded CSS-only progress bars with Sass. By-Rafael González.
 
 [Article on Codrops](http://tympanus.net/codrops/?p=25049)
 
